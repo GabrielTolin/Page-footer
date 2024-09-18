@@ -243,7 +243,12 @@ a:hover{
 
 
 
-@media (max-width: 600px){
+
+
+
+
+
+@media (max-width: 430px){
     .container{
         height: 80vh;
         flex-direction: column-reverse;
@@ -263,6 +268,7 @@ a:hover{
     }
 
     .arte{
+        margin-top: 50px;
         width: 70vw;
         height: 32vh;
     }
@@ -335,6 +341,9 @@ a:hover{
 }
 
 @media(max-width:400px){
+    .box-txt{
+        height: 100%;
+    }
     .box-txt h3{
         font-size: 15px;
     }
@@ -362,6 +371,7 @@ a:hover{
     }
 
     .arte{
+        margin-top: 50px;
         width: 60%;
     }
 
