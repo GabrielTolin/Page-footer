@@ -189,6 +189,7 @@ a:hover{
     }
 
     .box-txt{
+        border: orangered 3px solid;
         height: 60%;
         width: 40%;
     }
@@ -221,6 +222,7 @@ a:hover{
     }
 
     .box-txt{
+        border: white 3px solid;
         height: 60%;
         width: 60%;
     }
@@ -256,6 +258,7 @@ a:hover{
     }
 
     .box-txt{
+        border: red 3px solid;
         color: white;
         padding: 10px;
         width: 70vw;
@@ -346,6 +349,7 @@ a:hover{
     }
 
     .box-txt{
+        border: green 3px solid;
         height: 100%;
     }
     .box-txt h3{
