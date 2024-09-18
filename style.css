@@ -245,11 +245,11 @@ a:hover{
 
 @media (max-width: 430px){
     .container-fluid{
-        height: 11vh;
+        height: 12vh;
     }
 
     .container{
-        height: 90vh;
+        height: 94vh;
         flex-direction: column-reverse;
         align-items: center;
     }
